@@ -1,0 +1,10 @@
+.corpo {
+min-height: calc(100vh - 120px);
+display: flex;
+}
+
+.corpo div {
+padding: 20px;
+}
+
+  
