@@ -1,0 +1,38 @@
+.navbar {
+    height: 60px;
+    border-bottom: 1px solid #222;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar .container {
+    width: 100%;
+    max-width: 1000px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .logo {
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.navbar .menu {
+    display: flex;
+}
+
+.navbar .botao {
+    background-color: #222;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
