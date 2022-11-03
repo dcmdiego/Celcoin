@@ -6,4 +6,5 @@ Exercicio 02 - Minha página <br>
 Exercicio 03 - Memes para refatorar <br>
 Exercicio 04 - Conta aí <br>
 Exercicio 05 - Minha Lojinha <br>
-Exercicio 06 - Rotas Organizadas
+Exercicio 06 - Rotas Organizadas <br>
+Exercicio 07 - Quero um Catioro <br>
