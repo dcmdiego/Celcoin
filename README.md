@@ -8,3 +8,4 @@ Exercicio 04 - Conta aí <br>
 Exercicio 05 - Minha Lojinha <br>
 Exercicio 06 - Rotas Organizadas <br>
 Exercicio 07 - Quero um Catioro <br>
+Exercicio 08 - Mais detalhes, por favor <br>

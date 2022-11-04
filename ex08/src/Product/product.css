@@ -1,0 +1,21 @@
+.Product h1{
+    margin-left: 20px;
+}
+
+.Product button{
+    cursor: pointer;
+    border: none;
+    background-color: #00e676;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.Product button:hover{
+    padding: 15px;
+}
+
+.Product a{
+    text-decoration: none;
+    color: #222;
+}
